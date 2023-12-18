@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string-array name="judul_audio">
+        <item>Matahari</item>
+        <item>Merkurius</item>
+        <item>Venus</item>
+        <item>Bumi</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturnus</item>
+        <item>Uranus</item>
+        <item>Neptunus</item>
+        <item>Pluto</item>
+        <item>Haumea</item>
+        <item>Eris</item>
+        <item>Makemake</item>
+        <item>Ceres</item>
+        <item>Titan</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Matahari adalah bintang pusat dari tata surya kita. Ini adalah sumber utama energi bagi sistem tata surya dan memberikan cahaya serta panas yang mendukung kehidupan di Bumi. Matahari memiliki massa yang jauh lebih besar daripada semua planet dan benda langit lainnya dalam tata surya kita.</item>
+        <item>Merkurius adalah planet terkecil dan terdekat dengan Matahari dalam tata surya kita. Nama planet ini diambil dari dewa Romawi yang dianggap sebagai pembawa pesan, setara dengan dewa Yunani yang bernama Hermes.</item>
+        <item>Venus adalah planet kedua dari Matahari dalam tata surya kita, Venus memiliki orbit yang hampir bundar dan memerlukan sekitar 225 hari Bumi untuk mengelilingi Matahari. Satu hal yang unik tentang Venus adalah rotasinya yang sangat lambat dan berlawanan arah jarum jam, yang berarti bahwa matahari terbit di barat dan terbenam di timur di Venus.</item>
+        <item>Planet Bumi adalah tempat tinggal kita, yaitu planet ketiga dari Matahari dalam tata surya kita, Bumi memerlukan sekitar 365,25 hari untuk mengelilingi Matahari dalam orbitnya. Satu hari Bumi adalah sekitar 24 jam, yang dihitung dari satu matahari terbit hingga matahari terbenam. Rotasi Bumi mengikuti arah jarum jam jika dilihat dari Kutub Utara.</item>
+        <item>Mars adalah planet keempat dari Matahari dalam tata surya kita, Mars memerlukan sekitar 687 hari Bumi untuk mengelilingi Matahari, dan satu hari di Mars (periode rotasinya) sekitar 24,6 jam. Rotasi Mars berlangsung sekitar dua kali lebih lama dari rotasi Bumi.</item>
+        <item>Jupiter adalah planet kelima dari Matahari dan merupakan planet terbesar dalam tata surya kita, Jupiter memerlukan waktu sekitar 11,9 tahun Bumi untuk mengelilingi Matahari satu kali. Periode rotasi Jupiter sangat cepat, hanya sekitar 9,9 jam, sehingga membuatnya planet dengan rotasi tercepat di tata surya.</item>
+        <item>Saturnus adalah planet keenam dari Matahari dalam tata surya kita, Saturnus memerlukan waktu sekitar 29,5 tahun Bumi untuk mengelilingi Matahari satu kali. Periode rotasinya relatif cepat, hanya sekitar 10,7 jam, sehingga Saturnus adalah planet dengan rotasi tercepat kedua setelah Jupiter.</item>
+        <item>Uranus adalah planet ketujuh dari Matahari dalam tata surya kita, Uranus memiliki periode orbit sekitar 84 tahun Bumi, sehingga waktu satu tahun Uranus setara dengan waktu satu rotasi Bumi.</item>
+        <item>Neptunus adalah planet kedelapan dari Matahari dalam tata surya kita, Neptunus memiliki periode orbit sekitar 165 tahun Bumi, sehingga satu tahun Neptunus setara dengan waktu satu rotasi Bumi, Rotasi Neptunus relatif cepat, sekitar 16 jam, meskipun periode hariannya sulit untuk ditentukan dengan pasti karena awan tebal yang menutupi planet ini.</item>
+        <item>Pluto adalah objek trans-Neptunian, yang berarti bahwa orbitnya terletak di luar orbit Neptunus. Pluto pertama kali ditemukan pada tahun 1930 oleh Clyde Tombaugh dan dianggap sebagai planet kesembilan dalam tata surya hingga tahun 2006. Pada tahun tersebut, International Astronomical Union (IAU) memutuskan untuk meredefinisi kriteria yang mendefinisikan planet, dan sebagai hasilnya, Pluto kehilangan statusnya sebagai planet utama.</item>
+        <item>Haumea adalah objek trans-Neptunus dan "dwarf planet" yang terletak di sabuk Kuiper, yaitu wilayah yang berada di luar orbit Neptunus dalam tata surya kita, Haumea ditemukan pada tahun 2004 oleh tim astronom dari Observatorium Sierra Nevada di Spanyol, Nama Haumea diambil dari dewi pembawa kehidupan dan kelahiran dalam mitologi Hawai. Ia dianggap sebagai dewi pelindung tumbuhan dan keluarga.</item>
+        <item>Eris adalah objek trans-Neptunus dan "dwarf planet" yang terletak di sabuk Kuiper, wilayah di luar orbit Neptunus dalam tata surya kita, Eris ditemukan pada tahun 2005 oleh tim astronom internasional yang dipimpin oleh Mike Brown, Chad Trujillo, dan David Rabinowitz.</item>
+        <item>Makemake adalah objek trans-Neptunus dan "dwarf planet" yang terletak di sabuk Kuiper, wilayah di luar orbit Neptunus dalam tata surya kita, Makemake ditemukan pada tahun 2005 oleh tim astronom internasional yang dipimpin oleh Mike Brown, Chad Trujillo, dan David Rabinowitz.</item>
+        <item>Ceres adalah objek trans-Neptunus dan "dwarf planet" yang terletak di sabuk asteroid antara orbit Mars dan Jupiter, Ceres ditemukan pada 1 Januari 1801 oleh astronom Italia Giuseppe Piazzi. Ini adalah objek pertama yang ditemukan di sabuk asteroid dan memberi dorongan awal untuk penemuan objek-objek serupa.</item>
+        <item>Titan adalah salah satu bulan alami terbesar yang mengorbit planet Saturnus, Titan adalah bulan terbesar kedua di tata surya setelah Ganymede, bulan Jupiter. Diameter Titan sekitar 5.150 kilometer, lebih besar dari planet Merkurius, Meskipun besar, massa Titan relatif kecil dibandingkan dengan bulan-bulan planet raksasa lainnya, seperti Ganymede dan Callisto.</item>
+    </string-array>
+
+    <array name="audio_id">
+        <item>@raw/audio1</item>
+        <item>@raw/audio2</item>
+        <item>@raw/audio3</item>
+        <item>@raw/audio4</item>
+        <item>@raw/audio5</item>
+        <item>@raw/audio6</item>
+        <item>@raw/audio7</item>
+        <item>@raw/audio8</item>
+        <item>@raw/audio9</item>
+        <item>@raw/audio10</item>
+        <item>@raw/audio11</item>
+        <item>@raw/audio12</item>
+        <item>@raw/audio13</item>
+        <item>@raw/audio14</item>
+        <item>@raw/audio15</item>
+    </array>
+
+    <integer-array name="data_gambar">
+
+
+        <item>@drawable/gambar1</item>
+        <item>@drawable/gambar2</item>
+        <item>@drawable/gambar3</item>
+        <item>@drawable/gambar4</item>
+        <item>@drawable/gambar5</item>
+        <item>@drawable/gambar6</item>
+        <item>@drawable/gambar7</item>
+        <item>@drawable/gambar8</item>
+        <item>@drawable/gambar9</item>
+        <item>@drawable/gambar10</item>
+        <item>@drawable/gambar11</item>
+        <item>@drawable/gambar12</item>
+        <item>@drawable/gambar13</item>
+        <item>@drawable/gambar14</item>
+        <item>@drawable/gambar15</item>
+    </integer-array>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+</resources>
